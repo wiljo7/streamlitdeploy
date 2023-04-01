@@ -1,9 +1,3 @@
-
-#import pygame
-from tkinter import *
-from tkinter import ttk
-from tkinter import messagebox
-from tkinter import filedialog
 from datetime import datetime, date, time, timedelta
 import calendar
 import sqlite3
