@@ -6,7 +6,7 @@ from time import sleep
 import datetime
 import numpy as np
 #import matplotlib.pyplot as plt  # instalar
-import matplotlib as mpl
+#import matplotlib as mpl
 import os
 import requests
 import mysql.connector
