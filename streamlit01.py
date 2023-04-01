@@ -2,7 +2,7 @@ from datetime import datetime, date, time, timedelta
 import calendar
 import sqlite3
 from time import sleep
-import matplotlib.patches as mpatches
+#import matplotlib.patches as mpatches
 import datetime
 import numpy as np
 import matplotlib.pyplot as plt  # instalar
